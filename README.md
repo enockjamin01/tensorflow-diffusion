@@ -11,3 +11,7 @@ It uses a Text encoder to encode the image based on the requirements uses noise 
 [Efficient Sub-Pixel CNN](https://keras.io/examples/vision/super_resolution_sub_pixel/)
 
 [XLA Compilation](https://www.tensorflow.org/xla)
+
+## Output
+
+![output](https://github.com/enockjamin01/tensorflow-diffusion/blob/main/output.png)
